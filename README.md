@@ -103,10 +103,13 @@ Sales-Data-Analysis-Excel/
 │   └── Pivot Table Screenshot
 │
 └── README.md
+## 📸 Project Screenshots
 
-📷 Dashboard Preview
+### Cleaned Data
+![Cleaned Data](cleaned-data.png)
 
-The Excel dashboard provides a visual summary of the key sales KPIs and findings from the analysis.
+### Pivot Table Analysis
+![Pivot Table Analysis](pivot-table-analysis.png)
 
 📚 Conclusion
 
