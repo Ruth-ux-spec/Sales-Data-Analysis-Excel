@@ -99,11 +99,8 @@ Sales-Data-Analysis-Excel/
 ├── Pivot_Tables/
 │   └── Excel Pivot Table Analysis
 │
-├── Dashboard/
-│   └── Sales Dashboard
-│
 ├── Images/
-│   └── Dashboard Screenshot
+│   └── Pivot Table Screenshot
 │
 └── README.md
 
